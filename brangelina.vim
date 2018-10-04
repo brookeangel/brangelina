@@ -192,4 +192,7 @@ function! BrangelinaPlugins()
   Plug 'vim-airline/vim-airline-themes'
   Plug 'vim-scripts/CursorLineCurrentWindow' "  Only show the cursorline in the active window
   Plug 'w0rp/ale'                            "  Asynchronous linter
+  Plug 'itchyny/lightline.vim'
+  Plug 'christoomey/vim-tmux-navigator'
+  Plug 'ElmCast/elm-vim'
 endfunction
