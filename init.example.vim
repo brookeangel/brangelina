@@ -3,7 +3,7 @@
 " (1) Copy this file to ~/.config/nvim/init.vim
 
 " (2) Replace this with a path to brangelina on your machine.
-source ~/brangelina/brangelina.vim
+source ~/dotfiles/brangelina/brangelina.vim
 
 call plug#begin('~/.vim/plugged')
   call BrangelinaPlugins()
